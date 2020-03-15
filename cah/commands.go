@@ -3,7 +3,7 @@ package cah
 import (
 	"strings"
 
-	"github.com/jonas747/cardsagainstdiscord"
+	"https://github.com/keegansimyh/cardsagainstdiscord"
 	"github.com/jonas747/dcmd"
 	"github.com/jonas747/yagpdb/bot"
 	"github.com/jonas747/yagpdb/commands"
